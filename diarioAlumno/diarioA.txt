@@ -3,3 +3,8 @@
 6:30 Desayuno
 7:00 Estudio
 10:00 Gym
+14:00 Aluerzo
+15:00 Estudio 2
+19:00 Paseo Shiro
+20:00 Cena
+21:00 leer
